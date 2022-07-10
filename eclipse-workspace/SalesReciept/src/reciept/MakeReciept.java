@@ -19,7 +19,7 @@ public class MakeReciept {
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Please ente namer");	
 	name=sc.nextLine();
-	
+	sc.close();
 	
 	
 	}
